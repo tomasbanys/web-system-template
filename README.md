@@ -10,7 +10,7 @@
 - [ ] Malicious: True/False, (Boolean)
 - [ ] Result: The scan result itself, (String < 1000 characters)
 - [ ] Date: The date of the scan, (String < 9 chars)
-- [ ] File: File ID, mandatory, (number, 0 < ID < 100)
+- [ ] File: File ID, mandatory, (number, 0 < ID < 100 integer)
 - [ ] URL: URL, mandatory, (String < 1000 chars)
  
 ## API definition
