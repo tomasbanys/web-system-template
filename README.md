@@ -30,7 +30,7 @@ First
    
 Second
 - Scan file by ID
-- Scan URL by ID
+- Scan URL
  
 Link to wireframe: https://wireframe.cc/pro/pp/67ec4dd2d243764
 
