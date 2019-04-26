@@ -17,7 +17,7 @@
 - [ ] Scan a file by ID Method GET, /v2/file{id}/scan | possible error 404 (not found)
 - [ ] Rescan a file by ID Method GET, /v2/file{id}/rescan | possible error 404 (not found)
 - [ ] Retrieving file scan reports Method GET, /v2/file/report | possible error 404 (not found)
-- [ ] Scan a URL by ID Method GET, /v2/url{id}/scan | possible error 404 (not found)
+- [ ] Scan a URL Method GET, /v2/url/scan | possible error 404 (not found)
 - [ ] Retrieving URL scan reports Method GET, /v2/url/report | possible error 404 (not found)
 
 ## UI definition
