@@ -21,16 +21,16 @@
 - [ ] Retrieving URL scan reports Method GET, /v2/url/report | possible error 404 (not found)
 
 ## UI definition
- Two windows:
+Two windows:
    
-   - First
-     Import a file
-     View scan reports
-     Add a URL
+First
+- Import a file
+- View scan reports
+- Add a URL
    
-   - Second
-      Scan file by ID
-      Scan URL by ID
+Second
+- Scan file by ID
+- Scan URL by ID
  
-      Link to wireframe: https://wireframe.cc/pro/pp/67ec4dd2d243764
+Link to wireframe: https://wireframe.cc/pro/pp/67ec4dd2d243764
 
